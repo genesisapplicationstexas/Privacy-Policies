@@ -1,3 +1,4 @@
+![alt text](image.jpg)
 # The Bridge Privacy Policy 
 
 There are a few times during accessing features of this application that require user information. 
