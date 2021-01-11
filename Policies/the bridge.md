@@ -1,4 +1,4 @@
-![alt text](image.jpg)
+![alt text](https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG)
 # The Bridge Privacy Policy 
 
 There are a few times during accessing features of this application that require user information. 
