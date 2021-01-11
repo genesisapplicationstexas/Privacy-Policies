@@ -1,4 +1,5 @@
 <img src = "https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG" width = 300 height = 300 >
+
 # The Bridge Privacy Policy 
 
 There are a few times during accessing features of this application that require user information. 
