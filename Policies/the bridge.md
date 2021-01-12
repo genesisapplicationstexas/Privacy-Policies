@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <h1> The Bridge WF Privacy Policy </h1>
+    <b> The Bridge WF Privacy Policy </b>
 </p>
 
 There are a few times during accessing features of this application that require user information. 
