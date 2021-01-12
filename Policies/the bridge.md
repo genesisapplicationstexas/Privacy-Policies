@@ -1,4 +1,9 @@
-<img src = "https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG" width = 200 height = 200 >
+<p class="aligncenter">
+    <img src = "https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG" 
+         width = 200 height = 200 >
+</p>
+
+
 
 # The Bridge Privacy Policy 
 
