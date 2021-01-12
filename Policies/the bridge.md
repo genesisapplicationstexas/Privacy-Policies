@@ -1,20 +1,3 @@
-<html>
-<head>
-<style>
-h1 {
-  text-align: center;
-}
-
-h2 {
-  text-align: left;
-}
-
-h3 {
-  text-align: right;
-}
-</style>
-</head>
-<body>
 <p align = "center">
     <img src = "https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG" 
          width = 200 height = 200 >
