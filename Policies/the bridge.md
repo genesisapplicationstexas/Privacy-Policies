@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="justify">
+<p align="center">
   Lorem ipsum
 </p>
 
