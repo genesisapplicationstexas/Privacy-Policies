@@ -4,7 +4,7 @@
 </p>
 
 
-<h1>The Bridge Privacy Policy</h1>
+<center><h1>The Bridge Privacy Policy</h1></center>
 
 There are a few times during accessing features of this application that require user information. 
 All of the information collected is sent to the representatives of the Bridge College Ministry including 
