@@ -1,6 +1,6 @@
 <p align = "center">
     <img src = "https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG" 
-         width = 200 height = 200 >
+         width = 150 height = 150 >
 </p>
 
 
