@@ -1,12 +1,27 @@
+<html>
+<head>
+<style>
+h1 {
+  text-align: center;
+}
 
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
+</style>
+</head>
+<body>
 <p align = "center">
     <img src = "https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG" 
          width = 200 height = 200 >
 </p>
 
-<p align = "center">
-    <h1>The Bridge Privacy Policy</h1>
-</p>
+
+<h1>The Bridge Privacy Policy</h1>
 
 There are a few times during accessing features of this application that require user information. 
 All of the information collected is sent to the representatives of the Bridge College Ministry including 
