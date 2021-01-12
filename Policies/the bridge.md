@@ -1,22 +1,8 @@
-<html>
-    <head>
-        <style>
-            .aligncenter 
-            {
-                text-align: center;
-            }
-            </style>
-    </head>
-</html>
 
-<p class="aligncenter">
+<center>
     <img src = "https://github.com/genesisapplicationstexas/Privacy-Policies/blob/main/Logos/the_bridge.PNG" 
          width = 200 height = 200 >
-</p>
-
-
-
-
+</center>
 
 
 # The Bridge Privacy Policy 
